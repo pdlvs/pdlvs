@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pdlvs
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Cypress, Robot Framework and Selenium
+- 👀 I’m interested in Quality Assurance and Test Automation
+- 🌱 I’m currently learning Cypress
