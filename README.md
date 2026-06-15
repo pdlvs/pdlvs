@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @pdlvs
-- 👀 I’m interested in Quality Assurance and Test Automation
-- 🌱 I’m currently learning Mobile Automation
+
